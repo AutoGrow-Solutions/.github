@@ -17,7 +17,7 @@ Our hydroponic systems utilize cutting-edge AI technology to optimize resource u
 - **Educational Interface**: Features an app that not only controls the system but also educates users on hydroponic processes.
 - **Sustainability**: Consumes 90% less water than conventional farming methods and is constructed from sustainable materials.
 
-<img src ="https://i.gifer.com/ZdPH.gif"/>
+<img src ="https://media.giphy.com/media/n5KTUA0UTJxMVsMFoK/giphy.gif"/>
 
 ## Getting Started
 
