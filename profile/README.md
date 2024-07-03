@@ -1,3 +1,4 @@
+![Beige Feminine Personal LinkedIn Banner](https://github.com/AutoGrow-Solutions/.github/assets/100778149/6154dd2c-2536-4ee9-a3c7-0f3c198a47ff)
 # AutoGrow Solutions
 <img src ="https://cdn.pixabay.com/animation/2023/08/21/15/08/15-08-12-734_512.gif"/>
 
