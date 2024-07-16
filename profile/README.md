@@ -8,6 +8,7 @@ Welcome to the GitHub repository for AutoGrow, a student-led initiative aiming t
 
 OutGrow is born from a passion for sustainable agriculture and technology, initiated by students from [The IIE Varsity College Durban North]. Our mission is to make efficient farming accessible in urban settings where traditional farming faces challenges. Our solutions are designed to be user-friendly, resource-efficient, and scalable.
 
+
 ## Our Hydroponic Solution
 
 Our hydroponic systems utilize cutting-edge AI technology to optimize resource use and boost crop yields with minimal human intervention. Here are the key features:
@@ -17,8 +18,9 @@ Our hydroponic systems utilize cutting-edge AI technology to optimize resource u
 - **Fully Automated System**: Automated from seeding to harvesting with minimal manual input needed.
 - **Educational Interface**: Features an app that not only controls the system but also educates users on hydroponic processes.
 - **Sustainability**: Consumes 90% less water than conventional farming methods and is constructed from sustainable materials.
+  
+![ad5c93b6-db89-4b6c-ae2c-ded0b5031b2f](https://github.com/user-attachments/assets/939a91f8-4cff-4e5b-8a6e-d64721b4ad96)
 
-<img src ="https://media.giphy.com/media/n5KTUA0UTJxMVsMFoK/giphy.gif"/>
 
 ## Getting Started
 
@@ -34,6 +36,8 @@ Our hydroponic systems utilize cutting-edge AI technology to optimize resource u
 2. **Wi-Fi Connection**: Connect your system to the internet for AI integration and updates.
 3. **Planting**: Place your seeds or seedlings in the provided grow medium.
 4. **App Setup**: Download and install the OutGrow app on your device to monitor and control the system.
+
+<img src ="https://media.giphy.com/media/n5KTUA0UTJxMVsMFoK/giphy.gif"/>
 
 ### Usage
 
